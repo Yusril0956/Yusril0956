@@ -5,15 +5,6 @@
 
 ---
 
-### 🎮 About Me
-
-* :brain: Saya suka belajar *framework* baru & "merusaknya" (secara sengaja :sweat_smile:).
-* :video_game: Saat ini sedang fokus membangun proyek game di **Roblox Studio** menggunakan **Lua**.
-* :seedling: Di sisi web, saya sedang mendalami **React** setelah nyaman menggunakan **Livewire**.
-* :speech_balloon: Fakta unik: 80% *commit* saya adalah perbaikan *bug* :rofl:
-
----
-
 ### 🧰 Tech Stack
 
 <p align="center">
