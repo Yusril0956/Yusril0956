@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Ryl!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00FFB3&center=true&vCenter=true&width=450&lines=Code+💻+Eat+🍕+Sleep+😴+Repeat!;Laravel+Lover+❤️;Learning+Something+New+Everyday!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00FFB3&center=true&vCenter=true&width=450&lines=Code+💻+Eat+🍕+Sleep+😴+Repeat!;Roblox+Lover;Learning+Something+New+Everyday!+🚀" />
 </p>
 
 ---
